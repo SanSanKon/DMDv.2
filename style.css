@@ -559,21 +559,21 @@
   
   .photos__item:nth-child(7) {
     height: 270px;
-    margin-right: 50px;
+    margin-right: 20px;
     width: 270px;
   }
   
   .photos__item:nth-child(8) {
     height: 270px;
-    margin-right: 0;
+    margin-right: 20px;
     width: 270px;
   }
   
-  .photos__item:nth-child(9) { visibility: hidden; }
+  .photos__item:nth-child(9) { display: none; }
   
-  .photos__item:nth-child(10) { visibility: hidden; }
+  .photos__item:nth-child(10) { display: none; }
   
-  .photos__item:nth-child(11) { visibility: hidden; }
+  .photos__item:nth-child(11) { display: none; }
 
   .footer {
     background-color: #0e1e71;
